@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "白銀",
+  "base_artist": "Eve",
+  "createdAt": "2026-03-02T12:47:45.348087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白銀",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_白銀_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "白銀",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_白銀_Eve.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "白銀",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/03_白銀_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "白銀 - Eve MV",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/04_白銀_-_Eve_MV_Eve.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "白銀",
+      "artist": "Eve (57)",
+      "has_synced": true,
+      "path": "select/05_白銀_Eve_(57).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "白銀",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/06_白銀_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "白銀",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/07_白銀_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "白銀 - Shirogane",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/08_白銀_-_Shirogane_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "白銀",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/09_白銀_LiSA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白銀",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_白銀_Eve.txt"
+    }
+  ]
+}
